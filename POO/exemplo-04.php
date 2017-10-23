@@ -1,4 +1,4 @@
-<?php
+	<?php
 
 class Endereco {
 
@@ -28,7 +28,7 @@ class Endereco {
 
 }
 
-$meuEndereco = new Endereco("Rua Ademar Saraiva Leão", "123",	"Santos");
+$meuEndereco = new Endereco("Rua Ademar Saraiva Leão", "123", "Santos");
 
 echo $meuEndereco;
 

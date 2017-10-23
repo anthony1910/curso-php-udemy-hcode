@@ -2,7 +2,7 @@
 
 $condicao = true;
 
-while($condicao){
+while($condicao == true){
 
 	$numero = rand(1, 10);
 
